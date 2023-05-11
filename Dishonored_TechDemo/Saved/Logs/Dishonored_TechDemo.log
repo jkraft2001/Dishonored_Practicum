@@ -1454,3 +1454,132 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.11-21.35.09:840][  0]LogViewport: Scene viewport resized to 1149x848, mode Windowed.
 [2023.05.11-21.35.10:324][  1]LogAutomationController: Ignoring very large delta of 16912028.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.05.11-21.35.10:562][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.11-21.36.41:083][319]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.11-21.36.41:086][319]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.11-21.36.54:037][517]LogEditorEnvironmentLightingViewer: LightSourceAngle - LightSourceAngle
+[2023.05.11-21.36.54:037][517]LogEditorEnvironmentLightingViewer: LightSourceSoftAngle - LightSourceSoftAngle
+[2023.05.11-21.36.54:037][517]LogEditorEnvironmentLightingViewer: bUseTemperature - bUseTemperature
+[2023.05.11-21.36.54:037][517]LogEditorEnvironmentLightingViewer: Temperature - Temperature
+[2023.05.11-21.36.54:037][517]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ShadowCascadeBiasDistribution - ShadowCascadeBiasDistribution
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ForwardShadingPriority - ForwardShadingPriority
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bCastModulatedShadows - bCastModulatedShadows
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ModulatedShadowColor - ModulatedShadowColor
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ShadowAmount - ShadowAmount
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: SpecularScale - SpecularScale
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ShadowResolutionScale - ShadowResolutionScale
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ShadowBias - ShadowBias
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ShadowSlopeBias - ShadowSlopeBias
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ShadowSharpen - ShadowSharpen
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ContactShadowLength - ContactShadowLength
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ContactShadowLengthInWS - ContactShadowLengthInWS
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ContactShadowCastingIntensity - ContactShadowCastingIntensity
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: ContactShadowNonCastingIntensity - ContactShadowNonCastingIntensity
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: CastTranslucentShadows - CastTranslucentShadows
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bCastShadowsFromCinematicObjectsOnly - bCastShadowsFromCinematicObjectsOnly
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bAffectDynamicIndirectLighting - bAffectDynamicIndirectLighting
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bForceCachedShadowsForMovablePrimitives - bForceCachedShadowsForMovablePrimitives
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: LightingChannels - LightingChannels
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: CastStaticShadows - CastStaticShadows
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: CastDynamicShadows - CastDynamicShadows
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bAffectTranslucentLighting - bAffectTranslucentLighting
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bTransmission - bTransmission
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bCastVolumetricShadow - bCastVolumetricShadow
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bCastDeepShadow - bCastDeepShadow
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: CastRaytracedShadow - CastRaytracedShadow
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bAffectReflection - bAffectReflection
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bAffectGlobalIllumination - bAffectGlobalIllumination
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: DeepShadowLayerDistribution - DeepShadowLayerDistribution
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bEnableLightShaftOcclusion - bEnableLightShaftOcclusion
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: OcclusionMaskDarkness - OcclusionMaskDarkness
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: OcclusionDepthRange - OcclusionDepthRange
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: bEnableLightShaftBloom - bEnableLightShaftBloom
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: BloomScale - BloomScale
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: BloomThreshold - BloomThreshold
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: BloomMaxBrightness - BloomMaxBrightness
+[2023.05.11-21.36.54:038][517]LogEditorEnvironmentLightingViewer: BloomTint - BloomTint
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: LightShaftOverrideDirection - LightShaftOverrideDirection
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceMovableLight - DynamicShadowDistanceMovableLight
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: DynamicShadowDistanceStationaryLight - DynamicShadowDistanceStationaryLight
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: DynamicShadowCascades - DynamicShadowCascades
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CascadeDistributionExponent - CascadeDistributionExponent
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CascadeTransitionFraction - CascadeTransitionFraction
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: ShadowDistanceFadeoutFraction - ShadowDistanceFadeoutFraction
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: bUseInsetShadowsForMovableObjects - bUseInsetShadowsForMovableObjects
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: FarShadowCascadeCount - FarShadowCascadeCount
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: FarShadowDistance - FarShadowDistance
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: DistanceFieldShadowDistance - DistanceFieldShadowDistance
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: bUseRayTracedDistanceFieldShadows - bUseRayTracedDistanceFieldShadows
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: TraceDistance - TraceDistance
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: RayStartOffsetDepthScale - RayStartOffsetDepthScale
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: ShadowSourceAngleFactor - ShadowSourceAngleFactor
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: bAtmosphereSunLight - bAtmosphereSunLight
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: bCastShadowsOnClouds - bCastShadowsOnClouds
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: bCastShadowsOnAtmosphere - bCastShadowsOnAtmosphere
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: bCastCloudShadows - bCastCloudShadows
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudScatteredLuminanceScale - CloudScatteredLuminanceScale
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: AtmosphereSunLightIndex - AtmosphereSunLightIndex
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: AtmosphereSunDiskColorScale - AtmosphereSunDiskColorScale
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: bPerPixelAtmosphereTransmittance - bPerPixelAtmosphereTransmittance
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudShadowStrength - CloudShadowStrength
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudShadowOnAtmosphereStrength - CloudShadowOnAtmosphereStrength
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudShadowOnSurfaceStrength - CloudShadowOnSurfaceStrength
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudShadowDepthBias - CloudShadowDepthBias
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudShadowExtent - CloudShadowExtent
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudShadowMapResolutionScale - CloudShadowMapResolutionScale
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: CloudShadowRaySampleCountScale - CloudShadowRaySampleCountScale
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: MaxDrawDistance - MaxDrawDistance
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: MaxDistanceFadeRange - MaxDistanceFadeRange
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: LightFunctionMaterial - LightFunctionMaterial
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: LightFunctionScale - LightFunctionScale
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: LightFunctionFadeDistance - LightFunctionFadeDistance
+[2023.05.11-21.36.54:039][517]LogEditorEnvironmentLightingViewer: DisabledBrightness - DisabledBrightness
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: Intensity - Intensity
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: LightColor - LightColor
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: bAffectsWorld - bAffectsWorld
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: CastShadows - CastShadows
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: IndirectLightingIntensity - IndirectLightingIntensity
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: VolumetricScatteringIntensity - VolumetricScatteringIntensity
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: CastStaticShadows - CastStaticShadows
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: CastDynamicShadows - CastDynamicShadows
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: bAffectTranslucentLighting - bAffectTranslucentLighting
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: bTransmission - bTransmission
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: bCastVolumetricShadow - bCastVolumetricShadow
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: bCastDeepShadow - bCastDeepShadow
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: CastRaytracedShadow - CastRaytracedShadow
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: bAffectReflection - bAffectReflection
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: bAffectGlobalIllumination - bAffectGlobalIllumination
+[2023.05.11-21.36.54:042][517]LogEditorEnvironmentLightingViewer: DeepShadowLayerDistribution - DeepShadowLayerDistribution
+[2023.05.11-21.36.54:043][517]LogEditorEnvironmentLightingViewer: SamplesPerPixel - SamplesPerPixel
+[2023.05.11-21.37.37:016][329]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.05.11-21.37.39:349][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.11-21.37.50:779][781]LogDerivedDataCache: C:/Users/kraft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.806 and deleted 3516 files with total size 683 MiB and 3270 empty folders. Scanned 27868 files in 29231 folders with total size 4061 MiB.
+[2023.05.11-21.38.31:280][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.11-21.53.47:639][164]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.11-21.53.47:653][164]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.11-21.53.47:661][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.11-21.53.50:440][428]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.05.11-21.53.50:441][428]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.11-21.53.53:771][729]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.11-21.53.53:778][729]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.11-21.53.53:809][731]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.11-21.54.02:576][559]LogContentBrowser: Attempting asset rename: NewFolder -> Kraft_Blueprints
+[2023.05.11-21.54.02:576][559]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.11-21.54.14:923][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.11-21.54.22:194][423]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.11-21.54.22:206][423]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.11-21.54.22:214][424]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.11-21.54.24:460][636]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2023.05.11-21.54.24:461][636]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.11-21.54.28:627][ 37]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.11-21.54.28:637][ 37]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.11-21.54.28:668][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.11-21.54.33:979][540]LogContentBrowser: Attempting asset rename: NewFolder -> Kraft_Map
+[2023.05.11-21.54.33:980][540]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.11-21.54.41:817][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
