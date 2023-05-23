@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Blueprints/Sam_Blueprints/BP_EnemyAI.uasset",
+				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/AITestMap.umap",
+				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Sam_Map/AITestMap.umap",
+				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Sam_Folder/Sam_Blueprints/BP_EnemyAI.uasset",
+				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Sam_Folder/Sam_Map/AITestMap.umap",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalActors__/Maps/Kraft_Map/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO.uasset",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalActors__/Maps/Kraft_Map/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
