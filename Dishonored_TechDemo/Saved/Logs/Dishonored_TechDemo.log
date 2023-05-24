@@ -4501,3 +4501,98 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.24-19.48.23:857][544]AssetCheck: New page: Asset Save: AITestMap
 [2023.05.24-19.48.23:857][544]LogContentValidation: Display: Validating /Script/Engine.World /Game/Sam_Folder/Sam_Map/AITestMap.AITestMap
 [2023.05.24-19.48.27:496][761]LogDerivedDataCache: C:/Users/peasn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.187 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18318 files in 20461 folders with total size 2698 MiB.
+[2023.05.24-20.04.09:232][705]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.05.24-20.04.09:240][705]LogContentBrowser: Creating deferred item: NewInterface
+[2023.05.24-20.04.09:256][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.05.24-20.04.21:100][417]LogContentBrowser: Attempting asset rename: NewInterface -> BP_DetectionInterface
+[2023.05.24-20.04.21:112][417]LogContentBrowser: End creating deferred item NewInterface
+[2023.05.24-20.04.31:516][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface.BP_DetectionInterface
+[2023.05.24-20.04.31:517][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-20.04.31:517][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.24-20.04.50:253][277]LogViewport: Scene viewport resized to 1581x931, mode Windowed.
+[2023.05.24-20.04.50:313][278]LogViewport: Scene viewport resized to 1581x904, mode Windowed.
+[2023.05.24-20.04.50:362][279]LogViewport: Scene viewport resized to 1581x882, mode Windowed.
+[2023.05.24-20.04.50:910][312]LogSlate: Window 'BP_DetectionInterface' being destroyed
+[2023.05.24-20.04.56:434][637]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(354)].
+[2023.05.24-20.04.56:490][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.24-20.04.56:492][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sam_Folder/Sam_Map/AITestMap' took 0.025
+[2023.05.24-20.04.56:493][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface] ([2] browsable assets)...
+[2023.05.24-20.04.56:493][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface]
+[2023.05.24-20.04.56:495][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface_Auto2
+[2023.05.24-20.04.56:495][637]LogSavePackage: Moving '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Saved/BP_DetectionInterface_Auto24B0FACE548A391DBB4EB649623CB5706.tmp' to '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Saved/Autosaves/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface_Auto2.uasset'
+[2023.05.24-20.04.56:497][637]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.05.24-20.05.43:288][217]LogSlate: Took 0.004045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.24-20.14.56:905][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.24-20.14.56:906][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Sam_Folder/Sam_Map/AITestMap' took 0.023
+[2023.05.24-20.14.56:906][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface] ([2] browsable assets)...
+[2023.05.24-20.14.56:906][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface]
+[2023.05.24-20.14.56:908][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface_Auto3
+[2023.05.24-20.14.56:908][977]LogSavePackage: Moving '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Saved/BP_DetectionInterface_Auto37321A1A84712BF9658DAF38EEDBBABAD.tmp' to '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Saved/Autosaves/Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface_Auto3.uasset'
+[2023.05.24-20.14.56:908][977]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.05.24-20.21.02:198][806]BlueprintLog: New page: Compile BP_DetectionInterface
+[2023.05.24-20.21.02:223][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.24-20.21.02:780][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.24-20.21.02:875][839]LogSavePackage: Moving output files for package: /Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface
+[2023.05.24-20.21.02:875][839]LogSavePackage: Moving '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Saved/BP_DetectionInterface4A9CC3B440DD9AF00D9281892A1652B7.tmp' to '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Sam_Folder/Sam_Blueprints/BP_DetectionInterface.uasset'
+[2023.05.24-20.21.02:891][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 3.50 sec)
+[2023.05.24-20.21.02:899][839]AssetCheck: New page: Asset Save: BP_DetectionInterface
+[2023.05.24-20.21.02:899][839]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Sam_Folder/Sam_Blueprints/BP_DetectionInterface.BP_DetectionInterface
+[2023.05.24-20.21.09:011][ 72]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.24-20.21.09:011][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.24-20.21.09:038][ 72]LogViewport: Scene viewport resized to 1581x926, mode Windowed.
+[2023.05.24-20.21.09:055][ 73]LogViewport: Scene viewport resized to 1581x916, mode Windowed.
+[2023.05.24-20.21.09:097][ 74]LogViewport: Scene viewport resized to 1581x898, mode Windowed.
+[2023.05.24-20.21.09:114][ 75]LogViewport: Scene viewport resized to 1581x890, mode Windowed.
+[2023.05.24-20.21.09:130][ 76]LogViewport: Scene viewport resized to 1581x882, mode Windowed.
+[2023.05.24-20.21.39:310][652]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.05.24-20.21.39:319][652]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.24-20.21.39:323][652]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.24-20.21.39:339][653]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.24-20.21.47:529][137]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> DetectionWidget
+[2023.05.24-20.21.47:549][137]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.24-20.21.54:403][390]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sam_Folder/Sam_Blueprints/DetectionWidget.DetectionWidget
+[2023.05.24-20.21.54:409][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-20.21.54:409][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.24-20.21.54:417][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.24-20.21.54:417][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.24-20.21.54:423][390]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.05.24-20.21.54:774][390]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.05.24-20.21.54:781][390]LogSlate: Took 0.005911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.24-20.22.03:459][572]LogSlate: Window 'DetectionWidget' being destroyed
+[2023.05.24-20.23.28:181][275]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.24-20.23.28:191][275]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.24-20.23.28:198][276]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.24-20.23.34:228][638]LogContentBrowser: Attempting asset rename: NewFolder -> DetectionMeterImages
+[2023.05.24-20.23.34:233][638]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.24-20.23.44:251][848]LogInterchangeEngine: [Pending] Importing
+[2023.05.24-20.23.44:251][848]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/peasn/Downloadsundefined - Imgur.png]
+[2023.05.24-20.23.44:260][848]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.05.24-20.23.44:281][849]LogTexture: Display: Building textures: /Game/Sam_Folder/Sam_Blueprints/DetectionMeterImages/undefined_-_Imgur.undefined_-_Imgur (BGRA8, 242x43 x1x1x1) (Required Memory Estimate: 0.366821 MB), EncodeSpeed: Fast
+[2023.05.24-20.23.44:312][849]LogInterchangeEngine: [Success] Import Done
+[2023.05.24-20.23.44:342][849]LogInterchangeEngine: [Success] Import Done
+[2023.05.24-20.24.12:213][832]LogContentBrowser: Attempting asset rename: undefined_-_Imgur -> Detection_Meter_Empty
+[2023.05.24-20.24.12:291][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.24-20.24.12:376][832]LogSavePackage: Moving output files for package: /Game/Sam_Folder/Sam_Blueprints/DetectionMeterImages/Detection_Meter_Empty
+[2023.05.24-20.24.12:376][832]LogSavePackage: Moving '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Saved/Detection_Meter_Empty7731237E415D15BDAAC6D79AC316D2B4.tmp' to '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Sam_Folder/Sam_Blueprints/DetectionMeterImages/Detection_Meter_Empty.uasset'
+[2023.05.24-20.24.12:387][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 3.60 sec)
+[2023.05.24-20.24.12:430][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.05.24-20.24.12:452][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.24-20.24.12:472][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.05.24-20.24.12:479][832]AssetCheck: New page: Asset Save: Detection_Meter_Empty
+[2023.05.24-20.24.12:479][832]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sam_Folder/Sam_Blueprints/DetectionMeterImages/Detection_Meter_Empty.Detection_Meter_Empty
+[2023.05.24-20.24.17:760][979]LogInterchangeEngine: [Pending] Importing
+[2023.05.24-20.24.17:761][979]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/peasn/Downloadsundefined - Imgur (1).png]
+[2023.05.24-20.24.17:764][979]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.05.24-20.24.17:772][980]LogTexture: Display: Building textures: /Game/Sam_Folder/Sam_Blueprints/DetectionMeterImages/undefined_-_Imgur__1_.undefined_-_Imgur__1_ (BGRA8, 242x43 x1x1x1) (Required Memory Estimate: 0.366821 MB), EncodeSpeed: Fast
+[2023.05.24-20.24.17:794][980]LogInterchangeEngine: [Success] Import Done
+[2023.05.24-20.24.17:801][980]LogInterchangeEngine: [Success] Import Done
+[2023.05.24-20.24.29:066][627]LogContentBrowser: Attempting asset rename: undefined_-_Imgur__1_ -> Detection_Meter_Filled
+[2023.05.24-20.24.29:089][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.24-20.24.29:171][627]LogSavePackage: Moving output files for package: /Game/Sam_Folder/Sam_Blueprints/DetectionMeterImages/Detection_Meter_Filled
+[2023.05.24-20.24.29:171][627]LogSavePackage: Moving '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Saved/Detection_Meter_Filled362042604677ABFC497E7085EF7908DD.tmp' to '../../../../../../Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Sam_Folder/Sam_Blueprints/DetectionMeterImages/Detection_Meter_Filled.uasset'
+[2023.05.24-20.24.29:180][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.69 sec)
+[2023.05.24-20.24.29:210][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.24-20.24.29:229][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.05.24-20.24.29:248][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.24-20.24.29:253][627]AssetCheck: New page: Asset Save: Detection_Meter_Filled
+[2023.05.24-20.24.29:253][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Sam_Folder/Sam_Blueprints/DetectionMeterImages/Detection_Meter_Filled.Detection_Meter_Filled
