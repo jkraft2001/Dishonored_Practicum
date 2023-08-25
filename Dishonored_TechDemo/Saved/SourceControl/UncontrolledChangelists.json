@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Kraft_Map/FP_TestingMap.umap",
+				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Blueprints/Kraft_Blueprints/FP_Character.uasset",
+				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Kraft_Map/FP_TestingMap_BuiltData.uasset",
+				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
 				"D:/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Blueprints/Kraft_Blueprints/FP_Character.uasset",
 				"D:/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Blueprints/Kraft_Blueprints/AI_Darkvision.uasset",
@@ -72,7 +78,6 @@
 				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Blueprints/Sam_Blueprints/BP_EnemyAI.uasset",
 				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/AITestMap.umap",
 				"C:/Github/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Sam_Map/AITestMap.umap",
-				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalActors__/Maps/Kraft_Map/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO.uasset",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalActors__/Maps/Kraft_Map/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalActors__/Maps/Kraft_Map/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
@@ -140,10 +145,7 @@
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalObjects__/Maps/Kraft_Map/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalObjects__/Maps/Kraft_Map/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM.uasset",
 				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/__ExternalObjects__/Maps/Kraft_Map/FirstPersonMap/E/ZB/64YLC9YROSMO90SC5KR0PE.uasset",
-				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Kraft_Map/FirstPersonMap.umap",
-				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Kraft_Map/FP_TestingMap.umap",
-				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Blueprints/Kraft_Blueprints/FP_Character.uasset",
-				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Kraft_Map/FP_TestingMap_BuiltData.uasset"
+				"C:/Users/kraft/GitHub/Dishonored_Practicum/Dishonored_TechDemo/Content/Maps/Kraft_Map/FirstPersonMap.umap"
 			]
 		}
 	]
