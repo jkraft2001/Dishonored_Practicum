@@ -25,7 +25,7 @@
 		<EngineModeEx>Vanilla</EngineModeEx>
 		<DeploymentName />
 		<EngineVersion>5.2.1-26001984+++UE5+Release-5.2</EngineVersion>
-		<CommandLine>D:\GitHub\Dishonored_Practicum\Dishonored_TechDemo\Dishonored_TechDemo.uproject</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>en-US</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.2-CL-26001984</BuildVersion>
