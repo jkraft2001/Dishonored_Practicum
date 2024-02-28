@@ -30,6 +30,8 @@ protected:
 
 	virtual void PostInitializeComponents() override;
 
+	//virtual void FireImpulse();
+
 	UFUNCTION()
 	void OnActorHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);
 
