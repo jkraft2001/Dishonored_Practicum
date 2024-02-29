@@ -8,6 +8,7 @@
 
 class UStaticMeshComponent;
 class URadialForceComponent;
+class USphereComponent;
 
 UCLASS()
 class DISHONORED_TECHDEMO_API AAGrenade : public AActor
@@ -31,6 +32,9 @@ protected:
 
 	UPROPERTY(BlueprintReadOnly)
 	URadialForceComponent* ForceComp;
+
+	UPROPERTY(BlueprintReadOnly)
+	USphereComponent* SphereComp;
 
 	virtual void PostInitializeComponents() override;
 
