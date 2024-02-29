@@ -19,6 +19,10 @@ public:
 	AAGrenade();
 
 protected:
+	float TimerCountdown;
+
+	FTimerHandle TimerHandle_TimerCountdown;
+
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
@@ -29,8 +33,6 @@ protected:
 	URadialForceComponent* ForceComp;
 
 	virtual void PostInitializeComponents() override;
-
-	//virtual void FireImpulse();
 
 	UFUNCTION()
 	void OnActorHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit);

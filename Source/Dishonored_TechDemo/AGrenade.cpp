@@ -9,6 +9,8 @@
 // Sets default values
 AAGrenade::AAGrenade()
 {
+	TimerCountdown = 4.0f;
+
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
@@ -36,6 +38,7 @@ AAGrenade::AAGrenade()
 void AAGrenade::BeginPlay()
 {
 	Super::BeginPlay();
+
 	
 }
 
@@ -54,14 +57,6 @@ void AAGrenade::PostInitializeComponents()
 
 }
 
-/*
-void AAGrenade::FireImpulse()
-{
-
-
-}
-*/
-
 void AAGrenade::OnActorHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
 	ForceComp->FireImpulse();
@@ -76,3 +71,5 @@ void AAGrenade::OnActorHit(UPrimitiveComponent* HitComponent, AActor* OtherActor
 	*/
 
 }
+
+
