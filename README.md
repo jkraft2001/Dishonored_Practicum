@@ -5,13 +5,13 @@ The project aims to demonstrate knowledge of gameplay programming and Unreal Eng
 This project is not a full game, and will not be used for anything other than expanding my abilities as a game developer.
 
 ## Project Links:
-To download a build, check out the (Itch.io page.)[https://jkrafty.itch.io/dishonored-mechanic-recreation]
-To check out the blueprints, check out my (BlueprintUE page.)[https://blueprintue.com/blueprint/_chkhe92/]
+To download a build, check out the [Itch.io page.](https://jkrafty.itch.io/dishonored-mechanic-recreation)
+To check out the blueprints, check out my [BlueprintUE page.](https://blueprintue.com/blueprint/_chkhe92/)
 
 
 ## Get in touch!
-To find my previous work, check out (my website!)[https://www.jkrafty.com/]
-To connect with me, check out (my LinkedIn.)[https://www.linkedin.com/in/jackson-kraft/]
+To find my previous work, check out [my website!](https://www.jkrafty.com/)
+To connect with me, check out [my LinkedIn.](https://www.linkedin.com/in/jackson-kraft/)
 
 
 ## Additional Notes:
